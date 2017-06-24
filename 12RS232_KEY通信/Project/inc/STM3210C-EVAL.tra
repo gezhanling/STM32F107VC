@@ -1,0 +1,37 @@
+*** Creating Trace Output File '..\inc\STM3210C-EVAL.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\inc\stm32f10x_it.o"'
+### List of Objects: adding '"..\inc\main.o"'
+### List of Objects: adding '"..\inc\stm32f107.o"'
+### List of Objects: adding '"..\inc\sci.o"'
+### List of Objects: adding '"..\inc\led.o"'
+### List of Objects: adding '"..\inc\stm32f10x_usart.o"'
+### List of Objects: adding '"..\inc\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\inc\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\inc\stm32f10x_spi.o"'
+### List of Objects: adding '"..\inc\stm32f10x_exti.o"'
+### List of Objects: adding '"..\inc\stm32f10x_flash.o"'
+### List of Objects: adding '"..\inc\misc.o"'
+### List of Objects: adding '"..\inc\stm32f10x_adc.o"'
+### List of Objects: adding '"..\inc\stm32f10x_tim.o"'
+### List of Objects: adding '"..\inc\stm32f10x_i2c.o"'
+### List of Objects: adding '"..\inc\system_stm32f10x.o"'
+### List of Objects: adding '"..\inc\core_cm3.o"'
+### List of Objects: adding '"..\inc\startup_stm32f10x_cl.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\inc\stm32f10x_it.o" "..\inc\main.o" "..\inc\stm32f107.o" "..\inc\sci.o" "..\inc\led.o" "..\inc\stm32f10x_usart.o" "..\inc\stm32f10x_gpio.o" "..\inc\stm32f10x_rcc.o" "..\inc\stm32f10x_spi.o" "..\inc\stm32f10x_exti.o" "..\inc\stm32f10x_flash.o" "..\inc\misc.o" "..\inc\stm32f10x_adc.o" "..\inc\stm32f10x_tim.o" "..\inc\stm32f10x_i2c.o" "..\inc\system_stm32f10x.o" "..\inc\core_cm3.o" "..\inc\startup_stm32f10x_cl.o" 
+--strict --scatter "..\inc\STM3210C-EVAL.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\src\STM3210C-EVAL.map" -o ..\inc\STM3210C-EVAL.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\inc\STM3210C-EVAL.axf'
+### ADS-LD Command File: '..\inc\STM3210C-EVAL.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\inc\STM3210C-EVAL.lnp', Handle=0x00000298
+### Writing '.lnp' file
+### ADS-LD Command file '..\inc\STM3210C-EVAL.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,11 @@
+..\inc\stm32f10x_usart.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c
+..\inc\stm32f10x_usart.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\inc\stm32f10x_usart.o: ..\..\Libraries\CMSIS\Core\CM3\stm32f10x.h
+..\inc\stm32f10x_usart.o: ..\..\Libraries\CMSIS\Core\CM3\core_cm3.h
+..\inc\stm32f10x_usart.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\inc\stm32f10x_usart.o: ..\..\Libraries\CMSIS\Core\CM3\system_stm32f10x.h
+..\inc\stm32f10x_usart.o: ..\inc\stm32f10x_conf.h
+..\inc\stm32f10x_usart.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\inc\stm32f10x_usart.o: ..\..\Libraries\CMSIS\Core\CM3\stm32f10x.h
+..\inc\stm32f10x_usart.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\inc\stm32f10x_usart.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
