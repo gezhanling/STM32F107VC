@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\HARDWARE\LED -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\KEY -I..\HARDWARE\LCD -I..\HARDWARE\DAC 
+-I E:\study_soft\keil\install\ARM\RV31\INC 
+-I E:\study_soft\keil\install\ARM\CMSIS\Include 
+-I E:\study_soft\keil\install\ARM\Inc\ST\STM32F10x 
+-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o "..\OBJ\dac.o" --omf_browse "..\OBJ\dac.crf" --depend "..\OBJ\dac.d" "..\HARDWARE\DAC\dac.c"

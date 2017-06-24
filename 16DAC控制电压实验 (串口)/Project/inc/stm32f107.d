@@ -1,0 +1,15 @@
+..\inc\stm32f107.o: ..\src\stm32f107.c
+..\inc\stm32f107.o: ..\inc\stm32f107.h
+..\inc\stm32f107.o: ..\..\Utilities\STM32_EVAL\stm32_eval.h
+..\inc\stm32f107.o: ..\..\Libraries\CMSIS\Core\CM3\stm32f10x.h
+..\inc\stm32f107.o: ..\..\Libraries\CMSIS\Core\CM3\core_cm3.h
+..\inc\stm32f107.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\inc\stm32f107.o: ..\..\Libraries\CMSIS\Core\CM3\system_stm32f10x.h
+..\inc\stm32f107.o: ..\inc\stm32f10x_conf.h
+..\inc\stm32f107.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\inc\stm32f107.o: ..\..\Libraries\CMSIS\Core\CM3\stm32f10x.h
+..\inc\stm32f107.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\inc\stm32f107.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\inc\stm32f107.o: ..\..\Utilities\STM32_EVAL\STM3210C_EVAL\stm3210c_eval.h
+..\inc\stm32f107.o: ..\..\Utilities\STM32_EVAL\STM3210C_EVAL\stm3210c_eval_lcd.h
+..\inc\stm32f107.o: ..\..\Utilities\STM32_EVAL\STM3210C_EVAL\stm3210c_eval_ioe.h

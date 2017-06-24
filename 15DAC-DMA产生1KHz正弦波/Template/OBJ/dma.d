@@ -1,0 +1,15 @@
+..\OBJ\dma.o: ..\HARDWARE\DMA\DMA.c
+..\OBJ\dma.o: ..\USER\stm32f10x.h
+..\OBJ\dma.o: ..\CORE\core_cm3.h
+..\OBJ\dma.o: E:\study_soft\keil\install\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\dma.o: ..\USER\system_stm32f10x.h
+..\OBJ\dma.o: ..\USER\stm32f10x_conf.h
+..\OBJ\dma.o: ..\FWLIB\inc\stm32f10x_dac.h
+..\OBJ\dma.o: ..\USER\stm32f10x.h
+..\OBJ\dma.o: ..\FWLIB\inc\stm32f10x_dma.h
+..\OBJ\dma.o: ..\FWLIB\inc\stm32f10x_gpio.h
+..\OBJ\dma.o: ..\FWLIB\inc\stm32f10x_rcc.h
+..\OBJ\dma.o: ..\FWLIB\inc\stm32f10x_tim.h
+..\OBJ\dma.o: ..\FWLIB\inc\stm32f10x_usart.h
+..\OBJ\dma.o: ..\FWLIB\inc\misc.h
+..\OBJ\dma.o: ..\HARDWARE\DMA\DMA.h
